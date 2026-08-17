@@ -60,3 +60,4 @@ JOIN t_2020 USING(region)
 JOIN t_2021 USING(region)
 JOIN t_2022 USING(region)
 JOIN t_2023 USING(region)
+          
