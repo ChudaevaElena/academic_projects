@@ -6,4 +6,6 @@
 - [Продажи авто](https://colab.research.google.com/drive/1uQEC2EhZ0A-R9gLFAddjXLN-N7MLBm63?usp=sharing) — очистка, фильтрация, группировка, агрегация
 - [A/B-тесты](https://colab.research.google.com/drive/1zPEe-xSudJJzkILfE1cGAVRtlKo59ztY?usp=sharing) — проверка значимости (t-test, Mann-Whitney, Friedman, Wilcoxon, z-test)
 - [Pet-проект: выбор бизнеса по данным](https://docs.google.com/spreadsheets/d/1NESIb8z1AwTPaodNxkIjY58nvDUy4qopf9V42r2aCzI/edit?usp=sharing) — очистка, ВПР, нормирование, сводные таблицы, расчёт статистик, тепловая карта, анализ времененной динамики
-[1_chast_chudaeva.xlsx](https://github.com/user-attachments/files/31282237/1_chast_chudaeva.xlsx)
+- [Регрессионный анализ exel](https://github.com/user-attachments/files/31282237/1_chast_chudaeva.xlsx)
+- [Прогнозирование exel](https://github.com/user-attachments/files/31282315/2_chast_chudaeva.xlsx)
+
