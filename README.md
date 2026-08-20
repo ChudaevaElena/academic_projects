@@ -9,5 +9,5 @@
 - [Регрессионный анализ exel](https://github.com/user-attachments/files/31282237/1_chast_chudaeva.xlsx)
 - [Прогнозирование exel](https://github.com/user-attachments/files/31282315/2_chast_chudaeva.xlsx)
 - [Прогнозирование финансовых показателей компании с использованием временных рядов (на примере ПАО «НК «РОСНЕФТЬ»)](https://github.com/user-attachments/files/31282453/Chudaeva_E_M_BMN-22-AD-2.pdf) — Python, модели ARIMA, LSTM, GRU и N-BEATS
-- 
+- [Моделирование бизнес-процессов стартапа](https://github.com/user-attachments/files/31283113/Kursovaya_rabota_Modelirovanie_Chudaeva.docx) — BPMN, UML, DFD, IDEF0, описание клиентского пути и документооборота
 
