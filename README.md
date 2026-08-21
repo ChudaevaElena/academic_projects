@@ -13,3 +13,6 @@
 - [Юнит-экономика](https://docs.google.com/spreadsheets/d/1u_fRAtGxuk_kdlXZHxojaXXC7hUqggQfmhF1LWDvops/edit?usp=sharing)
 - [Дашборд](https://github.com/user-attachments/files/31320382/Chudaeva_DPP_Dashbord.xlsx)
 - [Когортный анализ](https://github.com/user-attachments/files/31320705/dz_kogortny_analiz_chudaeva.1.docx)
+- [Геоданные](https://github.com/user-attachments/files/31320806/kr_22_04.1.docx) - SQL
+- [Геоданные](https://github.com/user-attachments/files/31320801/DZ_chudaeva_3.docx) - SQL
+
